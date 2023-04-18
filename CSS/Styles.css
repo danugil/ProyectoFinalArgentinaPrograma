@@ -126,3 +126,21 @@ label {
     color: red;
 }
 
+#Footer {
+    background-color: #0D503C;
+    display:flex;
+    justify-content: space-between;
+    padding-left: 20%;
+}
+
+#Footer p {
+    color: #D0F2E8;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    
+}
+
+i {
+    color: #D0F2E8;
+    font-size: 30px;
+}
