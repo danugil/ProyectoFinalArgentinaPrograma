@@ -1,0 +1,128 @@
+#Home {
+    background-image: url(../Fondo/Wireframe\ -\ 1.png);
+    background-size:    cover;
+    height: 800px;
+    width: 101%;
+    position: relative;
+}
+
+h1 {
+    font-family: 'Playball', cursive;
+    color: white;
+    font-size: 90px;
+    position: absolute;
+    top: 45%
+}
+
+#Quienes-somos {
+    background-color: #075F41 ;
+}
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.conocenos {
+    font-family: 'Playball', cursive;
+    color: white;
+    opacity: 60%;
+}
+
+#Nuestro-equipo {
+    background-image: url(../Fondo/Wireframe\ -\ 2.png);
+    background-size: cover;
+}
+
+#Nuestro-equipo img {
+    border-radius: 50%;
+}
+
+#Nuestro-equipo h2 {
+    color: black;
+}
+
+#Nuestro-equipo p {
+    color: black;
+}
+
+#Formulario-contacto {
+    background-image: url(../Fondo/Wireframe\ -\ 3.png);
+    background-size: cover;
+}
+
+#Formulario-contacto h2{
+    font-family: 'Nunito', sans-serif;
+    color: #0D503C;
+    font-size: 30px;
+}
+
+#Formulario-contacto p{
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: 20px;
+    opacity: 80%;
+}
+
+label {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    color: #0D503C;
+}
+
+.btn-primary {
+    background-color: #0D503C;
+    border-color: #0D503C; 
+    border-radius: 50px;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+}
+
+.btn-primary:hover {
+    background-color: #075F41;
+    border-color: #075F41;
+}
+
+.btn-primary:active {
+    background-color: #075F41;
+    border-color: #075F41;
+}
+
+.form-control {
+    border-radius: 10px;
+    border-color: #D0F2E8;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#Formulario-proceso {
+    background-color: #075F41 ;
+}
+
+#Formulario-proceso h2 {
+    font-family: 'Nunito', sans-serif;
+    color: #0D503C;
+    font-size: 30px;
+}
+
+#Formulario-proceso p {
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: 20px;
+    opacity: 80%;
+}
+
+.error {
+    color: red;
+}
+
